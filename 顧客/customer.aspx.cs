@@ -6,10 +6,10 @@ using System.Windows.Forms;
 
 public partial class customer : System.Web.UI.Page
 {
-    static string connectionString = "Data Source = wupeixideMacBook-Air\\localhost,1433; " +
+    static string connectionString = "Data Source = computerName\\localhost,1433; " +
                                      "Initial Catalog = myDatabase; " +
                                      "User ID = SA; " +
-                                     "Password = qPei@W031";
+                                     "Password = password";
 
     protected void Droplist_select(object sender, EventArgs e) 
     {
