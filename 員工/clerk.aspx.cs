@@ -11,10 +11,10 @@ using System.Windows.Forms;
 
 public partial class Default2 : System.Web.UI.Page
 {
-    static string connectionString = "Data Source = wupeixideMacBook-Air\\localhost,1433; " +
+    static string connectionString = "Data Source = computerName\\localhost,1433; " +
                                      "Initial Catalog = myDatabase; " +
                                      "User ID = SA; " +
-                                     "Password = qPei@W031";
+                                     "Password = password";
     protected void Page_Load(object sender, EventArgs e)
     {
         
