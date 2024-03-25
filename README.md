@@ -1,1 +1,1 @@
-Using Docker with Azure Data Studio to connect SQL Server
+Using Docker to run SQL Server and Azure Data Sudio for local database access
